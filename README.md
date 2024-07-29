@@ -45,7 +45,7 @@ To run this project, you will need the following:
 You can install the required libraries using pip:
 
 ```bash
-    pip install pandas numpy sagemaker boto3  
+    pip install -r requirements.txt  
 ```
 
 Dataset
