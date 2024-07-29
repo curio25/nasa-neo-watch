@@ -1,4 +1,4 @@
-Asteroid Hazard Classification with SageMaker and XGBoost
+NASA Asteroid Hazard Classification with SageMaker and XGBoost
 =========================================================
 
 This project aims to build an end-to-end SageMaker pipeline to classify whether an asteroid is hazardous or not using NASA's Near Earth Object data and the XGBoost algorithm.
