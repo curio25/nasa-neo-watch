@@ -1,0 +1,7 @@
+setuptools
+sagemaker
+scikit-learn
+pandas
+numpy
+ipykernel
+boto3
